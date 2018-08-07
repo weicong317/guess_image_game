@@ -1,0 +1,12 @@
+#start, #choice li button {
+	font-size: 20px;
+	padding: 2px;
+	border-radius: 5px;
+}
+#choice li {
+	display: inline-block;
+	margin: 10px 30px;
+}
+#list li {
+	display: inline-block;
+}
